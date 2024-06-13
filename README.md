@@ -3,7 +3,7 @@ This project uses an LSTM (Long Short-Term Memory) model to predict car trajecto
 
 
 The project is divided into three main phases, each managed by a Google Colab notebook:
-1. Data Acquisition: Processing of the video of a busy intersection to extract car trajectories.
+1. Data Acquisition: Processing of the video (1 hour) of the busy intersection to extract car trajectories.
 2. Data Cleaning: Analyzing and cleaning the extracted data to obtain an accurate dataset.
 3. Dataset Creation and Model Training: Creating a dataset with the cleaned data and training an LSTM model.
 
