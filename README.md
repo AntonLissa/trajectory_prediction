@@ -17,7 +17,7 @@ In this project, I developed and tested two different approaches to predict car 
 1. Models: in this folder there are the latest models developed
 2. Dataframes: in this folder there are the some dataframes used for the creation of the dataset and training, the number after the dataframe name is the number of trajectories of each kind (see the code comments for more info)
 3. Trajectories: contains the trajectories before and after the cleaning process
-4. Videos: contains the videos used for the data acquisition and testing, in the folder "videos/processed/" there are some of the result obtained by the networks. Note that the videos that have been processed by the "total model" or the "four models" are labelled as "total_model_prediction" and "four_models_prediction". If the video name contains "_all_frames" it means that in this video processing all the video frames where used.
+4. Videos: contains the two videos used for the data testing, in the folder "videos/processed/" there are some of the result obtained by the networks. Note that the videos that have been processed by the "total model" or the "four models" are labelled as "total_model_prediction" and "four_models_prediction". If the video name contains "_all_frames" it means that in this video processing all the video frames where used.
 
 # Results
 You can find video results in the "videos/processed/" folder
