@@ -25,4 +25,4 @@ You can find video results in the "videos/processed/" folder
 ![Screenshot 2024-06-12 155206](https://github.com/AntonLissa/trajectory_prediction/assets/168411880/5ef4bd68-0aff-4445-af99-3fc10d4e322d)
 
 # Inspiration
-This project was inspired by the article "Real-Time Vehicle Trajectory Prediction for Traffic Conflict Detection at Unsignalized Intersections", you can find it here: https://doi.org/10.1155/2021/8453726
+This project was inspired by the article "Real-Time Vehicle Trajectory Prediction for Traffic Conflict Detection at Unsignalized Intersections", which can be found here: https://doi.org/10.1155/2021/8453726
